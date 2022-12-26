@@ -30,4 +30,8 @@ p {
 {
     width: 80px;
     vertical-align: middle;
+}    
+footer h1 {
+    font-size: x-small;
+    color: black;
 }
