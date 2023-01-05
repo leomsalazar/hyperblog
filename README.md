@@ -8,6 +8,8 @@
 
 Actualmente estoy haciendo diferentes cursos que me permitan ser mas competitivo y tener mas herramientas para defenderme en este campo de la tecnologia.
 
+Creado por el increible PLatzi
+
 Contactame:
 💬 [WhatsApp.](http://https://web.whatsapp.com/ "WhatsApp.")
 💌[Email](http://leomoralesalazar@gmail.com "Email")
