@@ -9,6 +9,8 @@
 Actualmente estoy haciendo diferentes cursos que me permitan ser mas competitivo y tener mas herramientas para defenderme en este campo de la tecnologia.
 
 Creado por el increible PLatzi
+Incluye ejemplos en Windows, Linux y Mac
+Disponible para todas las edades
 
 Contactame:
 💬 [WhatsApp.](http://https://web.whatsapp.com/ "WhatsApp.")
