@@ -11,6 +11,7 @@ Actualmente estoy haciendo diferentes cursos que me permitan ser mas competitivo
 Creado por el increible PLatzi
 Incluye ejemplos en Windows, Linux y Mac
 Disponible para todas las edades
+Para aprender con motivacion
 
 Contactame:
 💬 [WhatsApp.](http://https://web.whatsapp.com/ "WhatsApp.")
